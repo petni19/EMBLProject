@@ -1,0 +1,9 @@
+[console_scripts]
+ambient_light_pub_node = emli_package.ambient_light_pub_node:main
+emli_node = emli_package.emli_node:main
+emli_pub_node = emli_package.emli_pub_node:main
+emli_sub_node = emli_package.emli_sub_node:main
+plant_water_alarm_pub_node = emli_package.plant_water_alarm_pub_node:main
+pump_water_alarm_pub_node = emli_package.pump_water_alarm_pub_node:main
+soil_moisture_pub_node = emli_package.soil_moisture_pub_node:main
+
